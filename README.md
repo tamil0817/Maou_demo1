@@ -1,1 +1,1 @@
-# Maou_git.class
+# Maou_git
